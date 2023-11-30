@@ -1,0 +1,19 @@
+{
+    "name": "yxg/excel",
+    "description":"基于XLSXWriter导出excel包",
+    "license":"MIT",
+    "autoload": {
+        "psr-4": {
+            "Yxg\\Excel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yxg",
+            "email": "969713894@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
