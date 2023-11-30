@@ -1,5 +1,5 @@
 {
-    "name": "yxg/excel",
+    "name": "light/excel",
     "description":"基于XLSXWriter导出excel包",
     "license":"MIT",
     "autoload": {
